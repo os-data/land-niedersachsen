@@ -176,7 +176,7 @@
     {
       "name": "haushalt-niedersachsen-enriched",
       "format": "csv",
-      "path": "haushalt-niedersachsen-enriched.csv",
+      "path": "https://storage.openspending.org/haushalt-niedersachsen-enriched.csv",
       "mediatype": "application/vnd.ms-excel",
       "bytes": 6540234,
       "dialect": {
